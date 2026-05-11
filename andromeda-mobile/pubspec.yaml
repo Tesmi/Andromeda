@@ -1,0 +1,62 @@
+name: showcase
+description: "Andromeda - Learn Anywhere, Anytime"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Navigation
+  go_router: ^14.0.0
+
+  # UI Components
+  google_fonts: ^6.1.0
+
+  # HTTP & API
+  dio: ^5.4.0
+
+  # Local Storage
+  shared_preferences: ^2.2.2
+  sqflite: ^2.3.2
+  path_provider: ^2.1.2
+
+  # Firebase
+  firebase_core: ^2.24.0
+  firebase_messaging: ^14.7.0
+  firebase_auth: ^4.16.0
+
+  # Video Calling & Playback (add in Phase 3)
+  # jitsi_meet: ^4.0.0
+  video_player: ^2.8.0
+  chewie: ^1.7.0
+
+  # File Handling
+  file_picker: ^6.1.1
+  image_picker: ^1.0.7
+
+  # Utils
+  intl: ^0.19.0
+  flutter_svg: ^2.0.9
+  cached_network_image: ^3.3.1
+  package_info_plus: ^8.0.0
+
+  # State Management
+  flutter_bloc: ^8.1.4
+  get_it: ^7.6.7
+
+  # Dependency Injection
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895839063696",
+    "project_id": "andromeda-f87ef",
+    "storage_bucket": "andromeda-f87ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895839063696:android:0f89334ef27bb449349215",
+        "android_client_info": {
+          "package_name": "com.andromeda.showcase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNpIrT9kePq9so2MWDtdIShEhHnf1CDa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
